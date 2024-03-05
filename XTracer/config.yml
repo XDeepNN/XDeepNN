@@ -1,0 +1,15 @@
+baseConf:
+  feature_savepath: D:/software/feature
+  simulator_filepath: C:/Program Files/BlueStacks_nxt_cn/HD-Player.exe
+  under_detection_filepath: D:/software
+hookconf_api:
+  blackAPI_list: []
+  customAPI_list: []
+  hookAPI_num: 0
+  selectAPI_list:
+    black_list: false
+    custom_list: true
+    highCorrelation_API: true
+    restricted_API: true
+    sensitiveOperation_API: true
+    union_API: false
